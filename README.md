@@ -18,35 +18,36 @@ Welcome to the Blog Posts repository! This repository contains the source code f
 
 To run the project locally, follow these steps:
 
-1. Clone the repository:
+Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/blog-posts-nextjs.git
 ```
 
-2. Navigate to the project directory:
+Navigate to the project directory:
 
 ```bash
 cd blog-posts-nextjs
 ```
 
-3. Install the dependencies:
+Install the dependencies:
 
 ```bash
 npm install
 ```
 
-4. Start the development server:
+Start the development server:
 
 ```bash
 npm run dev
 ```
 
-5. Open your browser and go to **`http://localhost:3000`** to view the blog website.
+Open your browser and go to **`http://localhost:3000`** to view the blog website.
 
 ## Technologies Used
 
 TypeScript
+
 Next.js
 
 ## Contributing
@@ -60,7 +61,8 @@ Before contributing, please review the Contribution Guidelines.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-Author: AKHATAR Oussama
-Email: your.oussamaakhatar2@gmail.com
+
+Author: AKHATAR_Oussama
+Email: <oussamaakhatar2@gmail.com>
 
 For more information about the project or any questions, you can also open an issue in this repository.
